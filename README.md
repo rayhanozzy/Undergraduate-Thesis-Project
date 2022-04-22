@@ -1,2 +1,2 @@
 # Undergraduate-Thesis-Project
-This is my undergraduate thesis project about image encryption and decryption using Hill Cipher and Elliptic Curve Algorithm, prior to completed bachelor degree in mid 2020.
+This is my undergraduate thesis project about image encryption and decryption using Elliptic Curve Cryptography and Hill Cipher Algorithm, prior to completed bachelor degree in mid 2020.
